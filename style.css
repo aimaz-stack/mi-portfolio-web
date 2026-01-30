@@ -1,0 +1,19 @@
+/* Estilos por etiquetas */
+
+/* Formato para H1 que cambia el color, subraya, cambia el tipo de letra, los margenes, 
+   la alineacion, da formato al borde y que ocupe solo el 50% de la pantalla */
+
+h1 {
+    color:rgb(66, 6, 134);
+    background: linear-gradient(to bottom, rgb(195, 233, 173) 0%, rgb(131, 190, 209) 100%);
+    text-decoration: underline;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    align-content: center;
+    border: 2px;
+    border-style: dashed;
+    width: 50%;
+    padding: 15px;
